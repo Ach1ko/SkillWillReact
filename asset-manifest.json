@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ach1ko/SkillWillReact.git/static/css/main.4ed4d9d5.css",
+    "main.js": "/Ach1ko/SkillWillReact.git/static/js/main.68179805.js",
+    "static/media/skillWillBg.jpg": "/Ach1ko/SkillWillReact.git/static/media/skillWillBg.d9ab00e9b79990c33526.jpg",
+    "static/media/Nino.png": "/Ach1ko/SkillWillReact.git/static/media/Nino.fad31841ff1a037bc994.png",
+    "static/media/SW.jpg": "/Ach1ko/SkillWillReact.git/static/media/SW.f7c674e24314bf46a3ec.jpg",
+    "index.html": "/Ach1ko/SkillWillReact.git/index.html",
+    "main.4ed4d9d5.css.map": "/Ach1ko/SkillWillReact.git/static/css/main.4ed4d9d5.css.map",
+    "main.68179805.js.map": "/Ach1ko/SkillWillReact.git/static/js/main.68179805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed4d9d5.css",
+    "static/js/main.68179805.js"
+  ]
+}
